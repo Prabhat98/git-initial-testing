@@ -5,3 +5,7 @@ function myName(){
     console.log("greetings")
 }
 myName();
+function myLoc(){
+    console.log("This is my location")
+}
+myLoc();
